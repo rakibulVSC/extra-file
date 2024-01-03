@@ -1,7 +1,19 @@
 h3{
     color:red;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-weight: 500;
 }
 h2{
     color:solid black;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    background: url("./bd.jpg") no-repeat;
+    background-size: cover;
+    color:rgb(161, 117, 202);
 }
